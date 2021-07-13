@@ -1,0 +1,2 @@
+in whf 1st product is not showing in orders table                 Solved
+Can't select size                                                 Further Investigation required(try with radiobuttons)
